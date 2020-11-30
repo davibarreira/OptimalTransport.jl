@@ -1,5 +1,5 @@
 <a href="http://zsteve.phatcode.net/OptimalTransportDocs/">
-<img src="images/optimaltransport_logo.png" height="125"><br></a>
+<img src="images/optimaltransport_logo2.png" height="125"><br></a>
 
 ## Optimal transport algorithms for Julia
 
