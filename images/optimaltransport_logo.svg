@@ -7085,8 +7085,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="457.63996"
-     inkscape:cy="-419.0559"
+     inkscape:cx="314.33777"
+     inkscape:cy="-387.02418"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7114,12 +7114,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#bedef4;fill-opacity:1;stroke:none;stroke-width:4.90628433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:0.98039216;paint-order:normal"
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.90628433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:0.98039216;paint-order:normal"
        id="rect1772-5"
        width="117.73958"
        height="1.2981241"
        x="-13.910373"
-       y="439.03403" />
+       y="439.03403"
+       inkscape:export-filename="/home/davi/Desktop/optimaltransport_logo3.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="opacity:1;fill:#bedef4;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:0.98039216;paint-order:normal"
        id="rect1772"
@@ -7813,7 +7816,10 @@
     <g
        id="g1863"
        transform="translate(-37.242921,27.253621)"
-       style="stroke-linecap:butt;stroke-linejoin:round">
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       inkscape:export-filename="/home/davi/Desktop/optimaltransport_logo3.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
          transform="matrix(0.65192902,0,0,0.66566325,50.682139,222.28978)"
@@ -7969,7 +7975,10 @@
        x="-11.7972"
        y="432.80222"
        id="text4601-4-2-3-3"
-       transform="scale(0.98963007,1.0104786)"><tspan
+       transform="scale(0.98963007,1.0104786)"
+       inkscape:export-filename="/home/davi/Desktop/optimaltransport_logo3.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan4599-4-0-7-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.45870781px;font-family:Trocchi;-inkscape-font-specification:Trocchi;stroke-width:0.05371271;stroke-linecap:butt;stroke-linejoin:round"
