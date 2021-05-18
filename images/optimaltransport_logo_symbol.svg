@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="436.57419"
-     inkscape:cy="554.91629"
+     inkscape:zoom="0.35"
+     inkscape:cx="324.45105"
+     inkscape:cy="401.08424"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,15 +66,16 @@
          id="g4">
         <path
            d="m 1352.43,926.785 c 127.79,-3.12 155.77,-235.209 257.9,-236.195 102.12,0.986 130.1,233.075 257.89,236.195 z"
-           style="fill:#60ac51;stroke:#000000;stroke-width:26.7px"
+           style="fill:#389826;stroke:#000000;stroke-width:26.7px;fill-opacity:1"
            id="path2" />
       </g>
       <g
          transform="matrix(-0.998503,0,0,-1.30695,2444.27,2088.65)"
-         id="g8">
+         id="g8"
+         style="fill:#cb3c33;fill-opacity:1">
         <path
            d="m 1352.43,926.785 c 127.79,-3.12 155.77,-235.209 257.9,-236.195 102.12,0.986 130.1,233.075 257.89,236.195 z"
-           style="fill:#d5625b;stroke:#000000;stroke-width:26.7px"
+           style="fill:#cb3c33;stroke:#000000;stroke-width:26.7px;fill-opacity:1"
            id="path6" />
       </g>
       <g
@@ -86,19 +87,20 @@
            id="path10" />
         <path
            d="m 1231.5,1131.49 c -4.16,-9.32 -9.95,-14.2 -17.7,-13.73 l 0.14,134.41 h 17.56 z"
-           style="fill:#6582de"
+           style="fill:#4063d8;fill-opacity:1"
            id="path12" />
       </g>
       <g
          transform="matrix(-2.27529,0,0,-2.05627,3593.3,3467.2)"
-         id="g20">
+         id="g20"
+         style="fill:#9558b2;fill-opacity:1">
         <path
            d="m 1231.5,1131.49 c -4.16,-9.32 -9.95,-14.2 -17.7,-13.73 l 0.14,134.41 h 17.56 z"
-           style="fill:none;stroke:#000000;stroke-width:14.3px"
+           style="fill:#9558b2;stroke:#000000;stroke-width:14.3px;fill-opacity:1"
            id="path16" />
         <path
            d="m 1231.5,1131.49 c -4.16,-9.32 -9.95,-14.2 -17.7,-13.73 l 0.14,134.41 h 17.56 z"
-           style="fill:#ac7ac3"
+           style="fill:#9558b2;fill-opacity:1"
            id="path18" />
       </g>
       <g

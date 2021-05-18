@@ -37,13 +37,13 @@
    fit-margin-left="15"
    fit-margin-right="15"
    fit-margin-bottom="15"
-   inkscape:zoom="0.39682685"
-   inkscape:cx="771.15938"
-   inkscape:cy="267.0075"
+   inkscape:zoom="0.5"
+   inkscape:cx="764.55447"
+   inkscape:cy="134.09577"
    inkscape:window-x="0"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg260"
+   inkscape:current-layer="g20"
    inkscape:document-rotation="0" />
     <g
    transform="matrix(0.628165,0,0,0.628165,-16.772825,-331.27961)"
@@ -53,7 +53,7 @@
    id="g4">
             <path
    d="m 1352.43,926.785 c 127.79,-3.12 155.77,-235.209 257.9,-236.195 102.12,0.986 130.1,233.075 257.89,236.195 z"
-   style="fill:#60ac51;stroke:#000000;stroke-width:26.7px"
+   style="fill:#389826;stroke:#000000;stroke-width:26.7px;fill-opacity:1"
    id="path2" />
         </g>
         <g
@@ -61,7 +61,7 @@
    id="g8">
             <path
    d="m 1352.43,926.785 c 127.79,-3.12 155.77,-235.209 257.9,-236.195 102.12,0.986 130.1,233.075 257.89,236.195 z"
-   style="fill:#d5625b;stroke:#000000;stroke-width:26.7px"
+   style="fill:#cb3c33;stroke:#000000;stroke-width:26.7px;fill-opacity:1"
    id="path6" />
         </g>
         <g
@@ -73,7 +73,7 @@
    id="path10" />
             <path
    d="m 1231.5,1131.49 c -4.16,-9.32 -9.95,-14.2 -17.7,-13.73 l 0.14,134.41 h 17.56 z"
-   style="fill:#6582de"
+   style="fill:#4063d8;fill-opacity:1"
    id="path12" />
         </g>
         <g
@@ -85,7 +85,7 @@
    id="path16" />
             <path
    d="m 1231.5,1131.49 c -4.16,-9.32 -9.95,-14.2 -17.7,-13.73 l 0.14,134.41 h 17.56 z"
-   style="fill:#ac7ac3"
+   style="fill:#9558b2;fill-opacity:1"
    id="path18" />
         </g>
         <g
